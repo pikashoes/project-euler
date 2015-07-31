@@ -15,7 +15,7 @@ def factors(number):
 
     for i in range(2, number):
         qt, rd = divmod(number, i)
-        if not rd:
+        if rd == 0:
             return [i] + factors(qt)
 
     return [number]
