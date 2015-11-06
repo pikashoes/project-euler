@@ -13,6 +13,7 @@ def factors(number):
     if number == 1:
         return ["The number is 1 and has no other factors."]
 
+    
     for i in range(2, number):
         qt, rd = divmod(number, i)
         if rd == 0:
