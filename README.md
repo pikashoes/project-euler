@@ -1,10 +1,10 @@
-#Project Euler and Personal Projects
+Project Euler
+==============
 
 I began Project Euler as a way to exercise my problem solving skills in a way that was exciting and interesting. When I first began teaching myself Python, I used Project Euler problems to help me learn. I unfortunately do _not_ have all of my solutions available as Python files.
 
 ***I have currently solved 10/600 problems.***
 
-PROJECT EULER
 * Project Euler is a website found here: https://projecteuler.net/
 * From the website:
 
