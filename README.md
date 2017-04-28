@@ -1,5 +1,9 @@
 #Project Euler and Personal Projects
 
+I began Project Euler as a way to exercise my problem solving skills in a way that was exciting and interesting. When I first began teaching myself Python, I used Project Euler problems to help me learn. I unfortunately do have all of my solutions available as Python files.
+
+***I have currently solved 10/600 problems.***
+
 PROJECT EULER
 * Project Euler is a website found here: https://projecteuler.net/
 * From the website:
@@ -15,10 +19,3 @@ PROJECT EULER
     ------------------------------
     
     The intended audience include students for whom the basic curriculum is not feeding their hunger to learn, adults whose background was not primarily mathematics but had an interest in things mathematical, and professionals who want to keep their problem solving and mathematics on the cutting edge.
-
-* I have written most of these in Python, as I began Project Euler to faciliate my self-teaching of Python.
-
-PERSONAL PROJECTS
-* Example: User Verify
-* Used to help me do daily work or non-work related activites and make it faster
-
