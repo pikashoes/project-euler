@@ -7,7 +7,6 @@ I began Project Euler as a way to exercise my problem solving skills in a way th
 
 * **I have currently solved 10/600 problems.**
 * Project Euler is a website found here: https://projecteuler.net/
-* From the website:
 
 ### What is Project Euler? ###
 
