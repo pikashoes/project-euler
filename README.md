@@ -1,5 +1,3 @@
-Project Euler
-===============
 ![title](/PE.png)
 
 How it began:
