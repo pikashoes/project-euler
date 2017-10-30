@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 30 14:36:03 2017
-@author: pikashoes
+Solved: 09-10-2015
 
 Re-solving Problem 1 (already solved several years ago
 but don't have the solution written anywhere)

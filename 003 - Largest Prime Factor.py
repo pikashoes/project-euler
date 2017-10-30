@@ -1,3 +1,7 @@
+"""
+Solved: 08-10-2015
+"""
+
 while True:
     r = input("Enter a number: ")
     if r.isalpha():

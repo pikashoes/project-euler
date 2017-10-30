@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Oct 15 18:38:21 2016
-
-@author: pikashoes
+Solved: 10-15-2016
 
 Question:
 A palindromic number reads the same both ways. The largest palindrome made from

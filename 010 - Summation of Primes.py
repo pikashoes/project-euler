@@ -1,3 +1,7 @@
+"""
+Solved: 10-15-2015
+"""
+
 import time
 start = time.clock()
 

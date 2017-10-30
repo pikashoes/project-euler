@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 14 11:14:31 2015
-
-@author: sya236
+Solved: 10-14-2015
 """
 def factorial(n):
     new = 1
