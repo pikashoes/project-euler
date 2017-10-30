@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Solved: 10-30-2017
+Solved: 03-31-2017, 09:19
 
 Question:
 Find the difference between the sum of the squares of the first one hundred
