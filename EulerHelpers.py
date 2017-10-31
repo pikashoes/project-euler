@@ -35,3 +35,39 @@ def get_nth_fibonacci(n):
     
 #print(get_nth_fibonacci(16))
     #Should be 610
+
+"""
+Returns the n'th prime number
+"""
+def get_nth_prime(n):
+    if n == 1:
+        return 2
+    count = 1 #Already counted '2' as being first prime
+    num = 3
+    while count != n:
+        if is_prime(num):
+#            print(num)
+            count += 1
+        num += 2 #can skip the even numbers
+    return num - 2
+            
+
+"""
+Checks if the number is prime
+"""
+def is_prime(n):
+    if n == 2 or n == 3:
+        return True
+    if n < 2 or n % 2 == 0:
+        return False
+    
+    root = math.floor(math.sqrt(n))
+    for i in range(3, root + 1, 2): #only check odd not even
+        if n % i == 0:
+            return False
+    return True
+
+#print(is_prime(5))
+#print(is_prime(13))
+#print(is_prime(42))
+#print(get_nth_prime(100))
