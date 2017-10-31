@@ -5,7 +5,7 @@ How it began:
 
 I began Project Euler as a way to exercise my problem solving skills in a way that was exciting and interesting. When I first began teaching myself Python, I used Project Euler problems to help me learn. I unfortunately do _not_ have all of my solutions available as Python files, but the ones I do have and future solutions will be added here.
 
-* **I have currently solved 12/612 problems.**
+* **I have currently solved 13/612 problems.**
 * Project Euler is a website found here: https://projecteuler.net/
 
 ### What is Project Euler? ###
