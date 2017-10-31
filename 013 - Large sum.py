@@ -4,7 +4,7 @@ Solved: 10-31-2017, 15:09
 https://projecteuler.net/problem=13
 """
 
-f = open('013sup.txt', 'r')
+f = open('013 - sup.txt', 'r')
 
 final_num = 0
 for line in f:
