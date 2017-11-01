@@ -18,6 +18,18 @@ def count_divisors(num):
                 count += 2
     return count
 
+"""
+Returns a list of all the divisors (including n).
+"""
+def get_divisors(num):
+    answer = []
+    if (num == 1):
+        return [1]
+    else:
+        for i in range(1, num + 1):
+            if (num % i) == 0:
+                answer.append(i)
+    return answer
 
 """
 Returns the n'th fibonacci number iteratively.
