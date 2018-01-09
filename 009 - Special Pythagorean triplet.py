@@ -1,8 +1,10 @@
 """
 Solved: 01-09-2018, 12:01
 https://projecteuler.net/problem=9
-import time
 """
+
+import time
+
 def get_return(r):
     #Get r^2
     #Find s, t such that s*t = r^2/2. (Factor pairs)
