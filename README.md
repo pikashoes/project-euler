@@ -5,8 +5,8 @@ How it began:
 
 I began Project Euler as a way to exercise my problem solving skills in a way that was exciting and interesting. When I first began teaching myself Python, I used Project Euler problems to help me learn. I unfortunately do _not_ have all of my solutions available as Python files (I have most), but the ones I do have and future solutions will be added here.
 
-* **I have currently solved 16/612 problems.**
-* 20.507% of members have solved at least 16 problems.
+* **I have currently solved 19/618 problems.**
+* 16.876% of members have solved at least 19 problems.
 
 What is Project Euler?
 ----------------------
